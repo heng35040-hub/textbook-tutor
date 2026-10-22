@@ -1,0 +1,11 @@
+{
+  "name": "textbook-tutor",
+  "version": "1.0.0",
+  "description": "教材精讲私教：先诊断后讲解的个性化教材教学插件，含前置诊断、分水平讲解、巩固任务、小节验收与学习档案",
+  "author": {
+    "name": "heng35040-hub"
+  },
+  "skills": [
+    "skills/textbook-tutor"
+  ]
+}
